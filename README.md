@@ -4,6 +4,12 @@ Project created on June 3rd, 2019
 ### Project Title
 Intro Python Bikeshare Data Project
 
+### Required Software
+
+Pandas version 0.24.2
+Python version 3.7.3
+Numpy version 1.16.2
+
 ### Description
 The bikeshare python project provides a way for users to explore bikeshare data from three different cities:
 Chicago, New York City and Washington DC.  It allows users to filter data city and either month, day or no filtering.
