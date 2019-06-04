@@ -22,7 +22,7 @@ washington.csv
 
 ### Credits
 Project created using Udacity lessons and documentation from:
-http://pandas.pydata.org/pandas-docs/stable/user_guide/index.html
-https://www.numpy.org/devdocs/reference/index.html
-https://docs.python.org/3/
+[Pandas User Guide](http://pandas.pydata.org/pandas-docs/stable/user_guide/index.html)
+[NumPy Documentation](https://www.numpy.org/devdocs/reference/index.html)
+[Python Documentation](https://docs.python.org/3/)
 
