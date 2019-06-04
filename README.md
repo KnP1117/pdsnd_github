@@ -1,15 +1,22 @@
 ### Date created
-Include the date you created this project and README file.
+Project created on June 3rd, 2019
 
 ### Project Title
-Replace the Project Title
+Intro Python Bikeshare Data Project
 
 ### Description
-Describe what your project is about and what it does
+The bikeshare python project provides a way for users to explore bikeshare data from three different cities:
+Chicago, New York City and Washington DC.  It allows users to filter data city and either month, day or no filtering.
+
 
 ### Files used
-Include the files used
+chicago.csv
+new_york_city.csv
+washington.csv
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+Project created using Udacity lessons and documentation from:
+http://pandas.pydata.org/pandas-docs/stable/user_guide/index.html
+https://www.numpy.org/devdocs/reference/index.html
+https://docs.python.org/3/
 
