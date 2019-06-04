@@ -99,7 +99,7 @@ def load_data(city, month, day):
     df['Day of Week'] = df['Start Time'].dt.weekday_name
     df['Month Name'] = pd.to_datetime(df['Start Time'], format='%m').dt.month_name()
     df['Hour'] = df['Start Time'].dt.hour
-
+    # input to provide 5 lines of the raw data frame
     while True:
          try:
              see_df = input('Would you like to see 5 lines of the unfiltered dataframe? \nyes or no\n')
