@@ -21,7 +21,7 @@ new_york_city.csv
 washington.csv
 
 ### Credits
-Project created using Udacity lessons and documentation from:
+##Project created using Udacity lessons and documentation from:
 [Pandas User Guide](http://pandas.pydata.org/pandas-docs/stable/user_guide/index.html)
 [NumPy Documentation](https://www.numpy.org/devdocs/reference/index.html)
 [Python Documentation](https://docs.python.org/3/)
