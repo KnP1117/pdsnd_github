@@ -20,7 +20,7 @@ def get_filters():
 
     while True:
         try:
-            city_name = input(str('Choose city for data analysis.  Choices are: chicago, new york city, washington: '))
+            city_name = input('Choose city for data analysis.  Choices are: chicago, new york city, washington: ')
             cities = ['chicago', 'new york city', 'washington']
             if city_name in cities:
                 city = city_name
