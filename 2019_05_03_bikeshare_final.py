@@ -20,11 +20,13 @@ def get_filters():
 
     while True:
         try:
-            city_name = input(str('Choose city for data analysis.  Choices are: chicago, new york city, washington: '))
+            city_name = input('Choose city for data analysis.  Choices are: chicago, new york city, washington: ')
             cities = ['chicago', 'new york city', 'washington']
             if city_name in cities:
                 city = city_name
                 break
+            else print('That\'s not a valid city data set')
+                continue
         except:
             print('That\'s not a valid entry!')
             continue
@@ -38,7 +40,7 @@ def get_filters():
                 print(m_d_filter)
                 break
         except:
-           ('That\'s not a valid entry!')
+            print('That\'s not a valid entry!')
            continue
 
     # TO DO: get user input for month (all, january, february, ... , june)
