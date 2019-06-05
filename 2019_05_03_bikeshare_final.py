@@ -40,7 +40,7 @@ def get_filters():
                 print(m_d_filter)
                 break
         except:
-           ('That\'s not a valid entry!')
+            print('That\'s not a valid entry!')
            continue
 
     # TO DO: get user input for month (all, january, february, ... , june)
