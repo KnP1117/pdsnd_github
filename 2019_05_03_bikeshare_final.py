@@ -25,6 +25,8 @@ def get_filters():
             if city_name in cities:
                 city = city_name
                 break
+            else print('That\'s not a valid city data set')
+                continue
         except:
             print('That\'s not a valid entry!')
             continue
